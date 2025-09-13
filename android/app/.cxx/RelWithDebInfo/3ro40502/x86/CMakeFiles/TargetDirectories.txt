@@ -1,0 +1,2 @@
+/Users/sanjay/StudioProjects/sayanth/ubotz/android/app/.cxx/RelWithDebInfo/3ro40502/x86/CMakeFiles/edit_cache.dir
+/Users/sanjay/StudioProjects/sayanth/ubotz/android/app/.cxx/RelWithDebInfo/3ro40502/x86/CMakeFiles/rebuild_cache.dir
